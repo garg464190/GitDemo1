@@ -2,4 +2,8 @@ its a sample file
 
 code changed in develop branch
 
+<<<<<<< HEAD
 this change made by New1
+=======
+code changed in develop branch by New2
+>>>>>>> 9ceb49b50f44db8a871d5ede07df74b5c7b50e9c
